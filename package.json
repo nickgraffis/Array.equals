@@ -1,5 +1,5 @@
 {
-  "name": "array.equals",
+  "name": "@nickgraffis/array.equals",
   "version": "1.0.0",
   "description": "Method to compare two arrays.",
   "main": "index.js",
