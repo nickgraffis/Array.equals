@@ -1,0 +1,23 @@
+{
+  "name": "array.equals",
+  "version": "1.0.0",
+  "description": "Method to compare two arrays.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nickgraffis/Array.equals.git"
+  },
+  "keywords": [
+    "array",
+    "equals"
+  ],
+  "author": "Nick Graffis",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nickgraffis/Array.equals/issues"
+  },
+  "homepage": "https://github.com/nickgraffis/Array.equals#readme"
+}
